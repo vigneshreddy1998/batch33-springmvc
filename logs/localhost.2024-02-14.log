@@ -57,3 +57,16 @@
 14-Feb-2024 14:31:11.797 INFO [Thread-1] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
 14-Feb-2024 14:31:19.839 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
 14-Feb-2024 14:31:20.216 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'spring'
+14-Feb-2024 15:10:55.168 INFO [Thread-1] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+14-Feb-2024 15:11:04.521 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+14-Feb-2024 15:11:04.935 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'spring'
+14-Feb-2024 15:13:09.058 INFO [Thread-1] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+14-Feb-2024 15:13:14.828 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+14-Feb-2024 15:13:15.199 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'spring'
+14-Feb-2024 15:29:12.768 INFO [Thread-1] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+14-Feb-2024 15:29:19.970 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+14-Feb-2024 15:29:20.341 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'spring'
+14-Feb-2024 15:50:04.786 INFO [Thread-1] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+14-Feb-2024 16:38:49.775 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+14-Feb-2024 16:38:50.112 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'spring'
+14-Feb-2024 16:39:48.164 INFO [Thread-1] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
